@@ -103,6 +103,38 @@ header nav a:hover{
     align-items: center;
 }
 
+.circle-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #fff;
+    margin: 10px;
+  }
+  
+  .circle:hover{
+    visibility: hidden;
+  }
+  
+  .clipped-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .clipped-image img{
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
+    z-index: 1;
+  }
 
 
 
