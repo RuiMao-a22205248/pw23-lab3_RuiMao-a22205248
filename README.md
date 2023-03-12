@@ -4,4 +4,4 @@
 Programação Web - Laboratório 3
 <br>
 
-My Website : http://ruim02.pythonanywhere.com/
+My Website : https://mrui0516.pythonanywhere.com/lab3/index.html
